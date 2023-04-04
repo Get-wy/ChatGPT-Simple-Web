@@ -11,7 +11,7 @@
 
 ## 会话
 
-<img width="1249" alt="image" src="https://user-images.githubusercontent.com/36063518/229777497-6ec5b5cb-e66d-4694-a3c7-15c950e23af5.png">
+<img width="1246" alt="image" src="https://user-images.githubusercontent.com/36063518/229778496-6aa54f4a-004d-45e5-9cee-2894a0f3d102.png">
 
 
 
