@@ -1,7 +1,7 @@
 # ChatGPT Simple Web
 声明：本项目为开源学习使用，不涉及任何形式的付费服务。请注意谨防受骗。
 
-提供chatGPT web 管理界面
+根据chatGPT接口提供 web 管理界面，支持gpt-4.0。
 
 项目结构： vue3 + antdv
 
